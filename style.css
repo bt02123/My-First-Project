@@ -5,4 +5,5 @@
 .nav__link--active {
     color: purple;
     font-weight: bold;
+    font-style : italic;
 }
